@@ -1,0 +1,5 @@
+.section-bg {
+    background: rgb(121,9,43);
+    background: radial-gradient(circle, rgba(121,9,43,0.3897934173669467) 0%, rgba(74,9,144,0.6951155462184874) 100%);
+    min-height: 600px;
+}
